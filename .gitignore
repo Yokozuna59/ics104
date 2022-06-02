@@ -1,0 +1,7 @@
+# Python Ignore
+
+## Jupyter Notebook
+.ipynb_checkpoints
+
+## Environments
+.venv

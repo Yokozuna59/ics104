@@ -1,11 +1,11 @@
 # Cell Types
 - Code Cells
-    - Contents in this cell are treated as statements in a programming language of the current kernel, in our case Python 3. 
-    - When such cell is run, its result is displayed in an output cell. 
+    - Contents in this cell are treated as statements in a programming language of the current kernel, in our case Python 3.
+    - When such cell is run, its result is displayed in an output cell.
     - The output may be text, image, matplotlib plots or HTML tables.
 - Markdown Cells
-    - These cells contain text formatted using markdown language. 
-    - All kinds of formatting features are available like 
+    - These cells contain text formatted using markdown language.
+    - All kinds of formatting features are available like
         - making text bold (putting words between two \*\*)
         - making text italic (putting words between two \*)
         - displaying a heading (starting the line with a \#)

@@ -17,9 +17,13 @@ Assign a value to a temperature in Celsius, and find and display its equivalent 
 ## Task 3: Finding the Area and Circumference of a Circle
 
 Assign a value to a radius of a circle, then find and display its area and circumference using the following formulas
+
 $$Area=pi*radius*radius$$
+
 $$circumference=2*pi*radius$$
+
 where
+
 $$pi = 3.14159$$
 
 **My Answer**: [Lab01Task3.py](Lab01Task3.py)

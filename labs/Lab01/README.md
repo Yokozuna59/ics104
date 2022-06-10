@@ -18,9 +18,9 @@ Assign a value to a temperature in Celsius, and find and display its equivalent 
 
 Assign a value to a radius of a circle, then find and display its area and circumference using the following formulas
 
-$$Area=pi*radius*radius$$
+$$Area=pi * radius * radius$$
 
-$$circumference=2*pi*radius$$
+$$circumference=2 * pi * radius$$
 
 where
 

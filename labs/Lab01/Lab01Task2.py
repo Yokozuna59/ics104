@@ -1,6 +1,6 @@
 # Setting the Celsius value first
-Celsius = 100
+celsius = 100
 
 # Write your code below this line
-Fahrenheit = 32 + 9/5 * Celsius
-print("The", Celsius, "Celsius is", Fahrenheit, "in Fahrenheit.")
+fahrenheit = 32 + 9/5 * celsius
+print("The", celsius, "Celsius is", fahrenheit, "in Fahrenheit.")

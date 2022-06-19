@@ -2,8 +2,6 @@
 # This program generates a password using the user's inputs: first name and year of birth.
 #
 
-# Write your code below this line
-
 # Ask the user to enter his/her name and year of birth.
 userFirstNameUpper = input("Enter student's first name: ").upper()
 userBirthYear = int(input("Enter student's year of birth: "))

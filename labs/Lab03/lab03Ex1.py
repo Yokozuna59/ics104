@@ -2,8 +2,6 @@
 # This program prints the user's input separate every 3 digits with a comma.
 #
 
-# Write your code below this line
-
 # Ask the user to enter number between 1,100 and 999,999
 userNumber = int(input("Please enter a number between 1,100 and 999,999: "))
 
@@ -13,4 +11,4 @@ thousands = userNumber // 1000
 # Get the hundreds digits using % operator
 hundreds = userNumber % 1000
 
-print("%d,%d" %(thousands, hundreds))
+print("%d,%03d" %(thousands, hundreds))

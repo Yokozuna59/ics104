@@ -2,8 +2,6 @@
 # This program converts the user's input from kilometers to miles, feets, and inches.
 #
 
-# Write your code below this line
-
 # Create constants for the conversion factors
 MILE_TO_KILOMETERS = 1.609344
 KILOMETER_TO_MILES = 1/MILE_TO_KILOMETERS # 0.621371192237334

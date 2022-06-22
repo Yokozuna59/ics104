@@ -15,7 +15,7 @@ monthIndex = userMonth - 1
 monthFirstLetter = monthIndex*10
 
 # Get month last letter index
-monthLastLetter = monthIndex*10 + 8
+monthLastLetter = monthIndex*10 + 9
 
 # Get monthCompine each letter of month together
 month = MONTHS[monthFirstLetter:monthLastLetter]

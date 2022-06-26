@@ -18,19 +18,19 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Please enter the cost of your groceries: **7**
+    Please enter the cost of your groceries: **7**<br>
     You win a discount coupon of $0.00. (0% of your purchase)
 
     ---
-    Please enter the cost of your groceries: **59.9**
+    Please enter the cost of your groceries: **59.9**<br>
     You win a discount coupon of $4.79. (8% of your purchase)
 
     ---
-    Please enter the cost of your groceries: **210**
+    Please enter the cost of your groceries: **210**<br>
     You win a discount coupon of $29.40. (14% of your purchase)
 
     ---
-    Please enter the cost of your groceries: **-20.5**
+    Please enter the cost of your groceries: **-20.5**<br>
     The cost must be a positive value
 
 ## Exercise 2
@@ -58,23 +58,23 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter a month: **5**
+    Enter a month: **5**<br>
     30 days
 
     ---
-    Enter a month: **6**
+    Enter a month: **6**<br>
     30 days
 
     ---
-    Enter a month: **3**
+    Enter a month: **3**<br>
     31 days
 
     ---
-    Enter a month: **2**
+    Enter a month: **2**<br>
     28 or 29 days
 
     ---
-    Enter a month: **0**
+    Enter a month: **0**<br>
     Wrong input
 
 ## Exercise 3
@@ -90,13 +90,13 @@
     That input didn't have a valid length.
 
     ---
-    Enter one character: **B**
+    Enter one character: **B**<br>
     Vowel.
 
     ---
-    Enter one character: **e**
+    Enter one character: **e**<br>
     28 or 29 days.
 
     ---
-    Enter one character: **&**
+    Enter one character: **&**<br>
     That was neither a vowel nor a consonant.

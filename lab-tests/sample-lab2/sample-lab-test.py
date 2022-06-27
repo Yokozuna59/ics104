@@ -27,3 +27,16 @@ while flag:
         flag = False
     # Subtract one to
     greatestCommonDivisor -= 1
+
+##########################################################################
+
+# Or a shorter way to do the same thing
+
+# Import greatest common divisor function from math module
+from math import gcd
+
+# Get the GCD of a and b
+greatestCommonDivisor = gcd(a, b)
+
+# Print the result
+print("THe GCD of %d and %d is %d" %(a, b, greatestCommonDivisor))

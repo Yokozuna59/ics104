@@ -38,10 +38,10 @@ else:
 # Print the result
 if (errorType == None):
     # Print `Valid`` if it is a valid time
-    print("Valid")
+    print("Valid time.")
 else:
     # Print `Invalid Time` if it is an invalid time
-    print("Invalid")
+    print("Invalid time.")
 
     # Print the error type
     print("Error Type: %s" %errorType)

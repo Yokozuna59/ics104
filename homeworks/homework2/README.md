@@ -19,12 +19,12 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Enter number of terms: **0**
-    Error: Zero or negative number of terms not accepted
-    Enter the number of terms: **9000**
-    Enter the value of x in the interval (-1, 1]: **-2**
-    Error: Invalid value for **x**
-    Enter the value of x in the interval (-1, 1]: **0.5**
+    Enter number of terms: **0**<br>
+    Error: Zero or negative number of terms not accepted<br>
+    Enter the number of terms: **9000**<br>
+    Enter the value of x in the interval (-1, 1]: **-2**<br>
+    Error: Invalid value for **x**<br>
+    Enter the value of x in the interval (-1, 1]: **0.5**<br>
     The approximate value of ln(1+0.5000) up to 9000 terms is 0.4054651081
 
 **My Solution:** [quesion1.py](quesion1.py)
@@ -42,25 +42,25 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Enter a string or an empty string to terminate the program: **sit**
-    s
-    i
-    t
-    si
-    it
-    sit
-    Enter a string or an empty string to terminate the program: **Code**
-    C
-    o
-    d
-    e
-    Co
-    od
-    de
-    Cod
-    ode
-    Code
-    Enter a string or an empty string to terminate the program:
+    Enter a string or an empty string to terminate the program: **sit**<br>
+    s<br>
+    i<br>
+    t<br>
+    si<br>
+    it<br>
+    sit<br>
+    Enter a string or an empty string to terminate the program: **Code**<br>
+    C<br>
+    o<br>
+    d<br>
+    e<br>
+    Co<br>
+    od<br>
+    de<br>
+    Cod<br>
+    ode<br>
+    Code<br>
+    Enter a string or an empty string to terminate the program:<br>
     Done…
 
 **My Solution:** [quesion2.py](quesion2.py)
@@ -80,24 +80,24 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Enter an integer: **156**
-    Prime factors:
-    2
-    2
-    3
+    Enter an integer: **156**<br>
+    Prime factors:<br>
+    2<br>
+    2<br>
+    3<br>
     13
 
     ---
-    Enter an integer: **150**
-    Prime factors:
-    2
-    3
-    5
+    Enter an integer: **150**<br>
+    Prime factors:<br>
+    2<br>
+    3<br>
+    5<br>
     5
 
     ---
-    Enter an integer: **11**
-    Prime factors:
+    Enter an integer: **11**<br>
+    Prime factors:<br>
     11
 
 **My Solution:** [quesion3.py](quesion3.py)

@@ -8,28 +8,30 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter first number: **1**
-    Enter second number: **2**
-    Enter third number: **5**
+    Enter first number: **1**<br>
+    Enter second number: **2**<br>
+    Enter third number:**5**<br>
     1 2 5 in order
 
     ---
-    Enter first number: **1**
-    Enter second number: **5**
-    Enter third number: **2**
+    Enter first number: **1**<br>
+    Enter second number: **5**<br>
+    Enter third number: **2**<br>
     1 2 5 not in order
 
     ---
-    Enter first number: **5**
-    Enter second number: **2**
-    Enter third number: **1**
+    Enter first number: **5**<br>
+    Enter second number: **2**<br>
+    Enter third number: **1**<br>
     1 2 5 in order
 
     ---
-    Enter first number: **1**
-    Enter second number: **2**
-    Enter third number: **2**
+    Enter first number: **1**<br>
+    Enter second number: **2**<br>
+    Enter third number: **2**<br>
     1 2 2 in order
+
+**My Solution**: [exercise1.py](exercise1.py)
 
 ## Exercise 2
 
@@ -39,9 +41,11 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter a letter grade: **B**
+    Enter a letter grade: **B**<br>
     The numeric value is 3.0
 
     ---
-    Enter a letter grade: **X**
+    Enter a letter grade: **X**<br>
     Invalid letter grade
+
+**My Solution**: [exercise2.py](exercise2.py)

@@ -33,6 +33,8 @@
     Please enter the cost of your groceries: **-20.5**<br>
     The cost must be a positive value
 
+**My Solution**: [exercise1.py](exercise1.py)
+
 ## Exercise 2
 
 1. **Description**:
@@ -77,6 +79,8 @@
     Enter a month: **0**<br>
     Wrong input
 
+**My Solution**: [exercise2.py](exercise2.py)
+
 ## Exercise 3
 
 1. **Description**:
@@ -100,3 +104,5 @@
     ---
     Enter one character: **&**<br>
     That was neither a vowel nor a consonant.
+
+**My Solution**: [exercise3.py](exercise3.py)

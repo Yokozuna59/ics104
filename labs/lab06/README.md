@@ -15,6 +15,8 @@
     Enter an integer: **38**<br>
     The binary digits in reverse order are 011001
 
+**My Solution**: [exercise1.py](exercise1.py)
+
 ## Exercise 2
 
 1. **Description**:
@@ -34,7 +36,7 @@
     Enter a positive number (or a negative value to finish):**-8**<br>
     No positive number was entered.
 
-**My Solution**: [exercise1.py](exercise1.py)
+**My Solution**: [exercise2.py](exercise2.py)
 
 ## Exercise 3
 
@@ -51,4 +53,4 @@
     Enter a positive integer value: **714702**<br>
     Your integer has 6 digits and their sum is 21
 
-**My Solution**: [exercise2.py](exercise2.py)
+**My Solution**: [exercise3.py](exercise3.py)

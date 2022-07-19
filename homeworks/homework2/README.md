@@ -23,7 +23,7 @@
     Error: Zero or negative number of terms not accepted<br>
     Enter the number of terms: **9000**<br>
     Enter the value of x in the interval (-1, 1]: **-2**<br>
-    Error: Invalid value for **x**<br>
+    Error: Invalid value for x<br>
     Enter the value of x in the interval (-1, 1]: **0.5**<br>
     The approximate value of ln(1+0.5000) up to 9000 terms is 0.4054651081
 

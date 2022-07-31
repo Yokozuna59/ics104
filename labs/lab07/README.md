@@ -8,6 +8,8 @@
 
     <img width="500" alt="table" src="https://user-images.githubusercontent.com/87622592/176317151-4a3ae67a-4604-4310-bd89-1f0960333a9a.png">
 
+**My Solution**: [exercise1.py](exercise1.py)
+
 ## Exercise 2
 
 1. **Question Description**:
@@ -22,3 +24,5 @@
     ---
     Enter a word: **science**<br>
     There are 3 vowels in science
+
+**My Solution**: [exercise2.py](exercise2.py)

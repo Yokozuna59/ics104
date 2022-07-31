@@ -7,6 +7,8 @@
     Write a program that creates the file "LetterGrades.txt" filled with 1000 randomly generated letter grades.<br>
     Letter grades: A+, A, B+, B, C+, C, D+, D, and F.
 
+**My Solution**: [exercise1.py](exercise1.py)
+
 ## Exercise 2
 
 1. **Question Description**:
@@ -16,6 +18,8 @@
 2. **Sample Runs** (user input is in bold):
 
     The avrage GPA of the grades in file `LeLetterGrades.txt` is 2.3715
+
+**My Solution**: [exercise2.py](exercise2.py)
 
 ## Exercise 3
 
@@ -48,3 +52,5 @@
     ---
     Enter an input: **-6**
     The input is a float
+
+**My Solution**: [exercise3.py](exercise3.py)

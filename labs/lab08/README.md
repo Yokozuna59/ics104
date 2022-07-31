@@ -11,6 +11,8 @@
     Enter a string:  **wolf**<br>
     The reversed of wolf is flow
 
+**My Solution**: [exercise1.py](exercise1.py)
+
 ## Exercise 2
 
 1. **Question Description**:
@@ -26,6 +28,8 @@
     ---
     Enter a year: **302**<br>
     Year 302 is not a leap year
+
+**My Solution**: [exercise2.py](exercise2.py)
 
 ## Exercise 3
 
@@ -47,3 +51,5 @@
     ---
     Enter a secure password: **thebest#1**<br>
     The password is not secure.
+
+**My Solution**: [exercise3.py](exercise3.py)

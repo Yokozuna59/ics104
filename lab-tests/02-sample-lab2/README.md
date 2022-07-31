@@ -17,3 +17,5 @@
     Enter the first positive integer: **13**<br>
     Enter the second positive integer: **8**<br>
     The GCD of 13 and 8 is 1
+
+My Solution: [Sample Lab Test](sample-lab-test.py)

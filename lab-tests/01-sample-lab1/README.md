@@ -15,3 +15,5 @@
     ---
     Enter the time in the form of HH:MM: **24:00**<br>
     Invalid time.
+
+My Solution: [Sample Lab Test](sample-lab-test.py)

@@ -18,3 +18,5 @@
     ---
     Enter an integer: **-8**<br>
     not a positive integer
+
+My Solution: [Lab Test](lab-test.py)

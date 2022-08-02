@@ -11,12 +11,12 @@
 | Lab 05 | 3 | [Link](labs/lab05/README.md) |
 | Lab 06 | 3 | [Link](labs/lab06/README.md) |
 | Lab 07 | 2 | [Link](labs/lab07/README.md) |
-| Lab 08 | 3 | [Link](labs/Lab08/README.md) |
+| Lab 08 | 3 | [Link](labs/lab08/README.md) |
 | Lab 09 | 3 | [Link](labs/lab09/README.md) |
 | Lab 10 | 3 | [Link](labs/lab10/README.md) |
 | Lab 11 | 2 | [Link](labs/lab11/README.md) |
 | Lab 12 | 3 | [Link](labs/lab12/README.md) |
-| Lab 13 | 3 | [Link](labs/lab13/README.md) |
+| Lab 13 | 4 | [Link](labs/lab13/README.md) |
 
 ## Lab Tests
 

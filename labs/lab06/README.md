@@ -1,4 +1,4 @@
-# Lab 05
+# Lab 06
 
 ## Exercise 1
 

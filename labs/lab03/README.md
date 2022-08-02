@@ -9,15 +9,15 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Please enter a number between 1,100 and 999,999: **1234**
+    Please enter a number between 1,100 and 999,999: **1234**<br>
     1,234
 
     ---
-    Please enter a number between 1,100 and 999,999:  **45786**
+    Please enter a number between 1,100 and 999,999:  **45786**<br>
     45,786
 
     ---
-    Please enter a number between 1,100 and 999,999: **999999**
+    Please enter a number between 1,100 and 999,999: **999999**<br>
     999,999
 
 **My Solution**: [exercise1.py](exercise1.py)

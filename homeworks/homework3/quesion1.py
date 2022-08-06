@@ -3,10 +3,13 @@ def main():
     totalAssistance = 0
 
     while not finished:
+        # Get user input for household
         userIncome = int(input("Enter the household income: "))
+        # chekc if user did not entered -1
         if (userIncome != -1):
             userChileds = int(input("Enter the number of children: "))
 
+            # check the range of user income and child numbers
             if (0 <= userIncome < 20000):
                 currentAssistance = 2000 * userChileds
             elif (20000 <= userIncome < 30000) and (userChileds >= 2):
@@ -16,8 +19,10 @@ def main():
             else:
                 currentAssistance = 0
 
+            # Print currentAssistance and add it to totalAssistance
             print("Amount of assistance:", currentAssistance)
             totalAssistance += currentAssistance
+        # Else exit loop
         else:
             print("Exit")
             finished = True

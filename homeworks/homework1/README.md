@@ -1,4 +1,4 @@
-# ICS104 Homework 1
+# Homework 1
 
 ## Question 1 (30 points)
 

@@ -13,10 +13,10 @@
 
     | Annual Income | Number of Children | Financial Assistance per Childe |
     |:-------------:|:------------------:|:---------------------:|
-    | $[\$0, \$20000)$ | $[1, \infin)$ | $\$2000$ |
-    | $[\$20000, \$30000)$ | $[2, \infin)$ | $\$1500$ |
-    | $[\$30000, \$40000]$ | $[3, \infin)$ | $\$1000$ |
-    | Otherwise | $[0, \infin)$ | No Financial Assistance |
+    | [\$0, \$20000) | $[1, \infty)$ | \$2000 |
+    | [\$20000, \$30000) | $[2, \infty)$ | \$1500 |
+    | [\$30000, \$40000] | $[3, \infty)$ | \$1000 |
+    | Otherwise | $[0, \infty)$ | No Financial Assistance |
 
     Implement a function for this computation. Write a program that asks the user to input the household income and number of children for each applicant, printing the amount returned by your function. Use $–1$ as a sentinel value for the input. On exiting the program should print the total amount of assistance given to all families. Note the followings:
 

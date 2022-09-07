@@ -36,13 +36,13 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter student's first name: **MUHSIN**
-    Enter student's year of birth: **1982**
+    Enter student's first name: **MUHSIN**<br>
+    Enter student's year of birth: **1982**<br>
     Password = muhsinNM$3964
 
     ---
-    Enter student's first name: **Saleem**
-    Enter student's year of birth: **2005**
+    Enter student's first name: **Saleem**<br>
+    Enter student's year of birth: **2005**<br>
     Password = saleemMS$4010
 
 **My Solution**: [exercise2.py](exercise2.py)
@@ -63,15 +63,15 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter distance in kilometers: **626.5**
+    Enter distance in kilometers: **626.5**<br>
     626.50 kilometers equals 389 miles, 1526 feet and 2.33 inches
 
     ---
-    Enter distance in kilometers: **8.0**
+    Enter distance in kilometers: **8.0**<br>
     8.00 kilometers equals 4 miles, 5126 feet and 8.63 inches
 
     ---
-    Enter distance in kilometers: **1.2**
+    Enter distance in kilometers: **1.2**<br>
     1.20 kilometers equals 0 miles, 3937 feet and 0.09 inches
 
 **My Solution**: [exercise3.py](exercise3.py)

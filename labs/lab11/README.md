@@ -18,10 +18,10 @@
     - Move the first point 5.5 units in x direction and -12.5 units in y direction using translate method.
     - Find the distance between the 2 points in their current location using distanceTo method.
 
-    Coordinates of point 1 = (3.0, 5.0)
-    Coordinates of point 2 = (-10.0, 30.0)
-    After move
-    Coordinates of point 1 = (8.5, -7.5)
+    Coordinates of point 1 = (3.0, 5.0)<br>
+    Coordinates of point 2 = (-10.0, 30.0)<br>
+    After move<br>
+    Coordinates of point 1 = (8.5, -7.5)<br>
     Distance between the 2 points = 41.82
 
 **My Solution**: [exercise1.py](exercise1.py)

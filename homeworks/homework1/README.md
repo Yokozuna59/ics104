@@ -13,7 +13,7 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Please enter an integer number representing a number of seconds: **369121517**
+    Please enter an integer number representing a number of seconds: **369121517**<br>
     Equivalent amount of time: 4272:05:45:17
 
 **My Solution:** [quesion1.py](quesion1.py)
@@ -32,7 +32,7 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Please enter an integer number representing a month (between 1 and 12): **7**
+    Please enter an integer number representing a month (between 1 and 12): **7**<br>
     Your month is July.
 
 **My Solution:** [quesion2.py](quesion2.py)
@@ -63,14 +63,14 @@
 
 3. **Sample Runs** (user input is in bold):
 
-    Please enter a letter (W) for a wavelength or (F) for frequency: **F**
-    Please enter the frequency: **6.5E14**
+    Please enter a letter (W) for a wavelength or (F) for frequency: **F**<br>
+    Please enter the frequency: **6.5E14**<br>
     Electromagnetic Spectrum type is: Visible light
 
     ---
 
-    Please enter a letter (W) for a wavelength or (F) for frequency: **W**
-    Please enter the wavelength: **5.0E-9**
+    Please enter a letter (W) for a wavelength or (F) for frequency: **W**<br>
+    Please enter the wavelength: **5.0E-9**<br>
     Electromagnetic Spectrum type is: X-rays
 
 **My Solution:** [quesion3.py](quesion3.py)

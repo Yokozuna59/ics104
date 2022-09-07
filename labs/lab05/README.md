@@ -90,7 +90,7 @@
 
 2. **Sample Runs** (user input is in bold):
 
-    Enter one character: **python**
+    Enter one character: **python**<br>
     That input didn't have a valid length.
 
     ---
